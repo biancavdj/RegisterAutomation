@@ -3,13 +3,19 @@
 
 1 - Instalar o app e colocar para rodar na máquina pelo cmd ou terminal do vs code (github desktop também).
 
+No terminal:
+
 git clone <URL_DO_REPOSITORIO>
 
-cd nome-do-repositorio
+cd nome-do-repositório
 
-npm install
+npm install ou yarn install
 
-npm start
+npm start ou yarn start
+
+npm install --legacy-peer-deps
+
+forçar instalação ignorando dependências problemáticas 
 
 2 - Criar  projeto e instalar o Cypress no terminal, junto a todas as ferramentas 
 
