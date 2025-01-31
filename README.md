@@ -15,7 +15,7 @@ npm start ou yarn start
 
 npm install --legacy-peer-deps
 
-forçar instalação ignorando dependências problemáticas 
+forçar instalação ignorando dependências problemáticas (NÃO é recomendado)
 
 2 - Criar  projeto e instalar o Cypress no terminal, junto a todas as ferramentas 
 
